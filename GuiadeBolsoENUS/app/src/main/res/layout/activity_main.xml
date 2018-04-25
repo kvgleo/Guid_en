@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/layoutMain"
+        android:id="@+id/ly1"
+        android:background="#e0d4ce">
+
+        <ImageView
+            android:id="@+id/imgFood"
+            style="@style/mainImgs"
+            android:background="@drawable/groceries"
+            />
+
+        <LinearLayout
+            style="@style/layoutMain2">
+
+            <TextView
+                android:id="@+id/tvFood"
+                style="@style/tvMain"
+                android:text="@string/food"/>
+
+            <TextView
+                android:id="@+id/tvFood2"
+                style="@style/descMain"
+                android:text="@string/desc3"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        style="@style/layoutMain"
+        android:id="@+id/ly2"
+        android:background="#d4c4d4">
+
+        <ImageView
+            android:id="@+id/imgNumbers"
+            style="@style/mainImgs"
+            android:background="@drawable/cubes"
+            />
+
+        <LinearLayout
+            style="@style/layoutMain2">
+
+            <TextView
+                android:id="@+id/tvNumbers"
+                style="@style/tvMain"
+                android:text="@string/numbers"/>
+
+            <TextView
+                android:id="@+id/tvNumbers2"
+                style="@style/descMain"
+                android:text="@string/desc1"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/layoutMain"
+        android:id="@+id/ly3"
+        android:background="@color/box">
+
+        <ImageView
+            android:id="@+id/imgFamily"
+            style="@style/mainImgs"
+            android:background="@drawable/mother"
+            />
+
+        <LinearLayout
+            style="@style/layoutMain2">
+
+            <TextView
+                android:id="@+id/tvFamily"
+                style="@style/tvMain"
+                android:text="@string/family"/>
+
+            <TextView
+                android:id="@+id/tvFamily2"
+                style="@style/descMain"
+                android:text="@string/desc4"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/layoutMain"
+        android:id="@+id/ly4"
+        android:background="#adbdae">
+
+        <ImageView
+            android:id="@+id/imgExpressions"
+            style="@style/mainImgs"
+            android:background="@drawable/cv"
+            />
+
+        <LinearLayout
+            style="@style/layoutMain2">
+
+            <TextView
+                android:id="@+id/tvExp"
+                style="@style/tvMain"
+                android:text="@string/exp"/>
+
+            <TextView
+                android:id="@+id/tvExp2"
+                style="@style/descMain"
+                android:text="@string/desc2"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

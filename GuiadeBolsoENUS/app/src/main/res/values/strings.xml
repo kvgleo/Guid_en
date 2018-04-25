@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">GUID-EN</string>
+    <string name="numbers">NÚMEROS (Numbers)</string>
+    <string name="family">FAMILIARES (Family)</string>
+    <string name="exp">EXPRESSÕES (Expressions)</string>
+    <string name="food">ALIMENTOS (Food)</string>
+    <string name="desc1">Veja os números, contagens e ordem de numeração correta de algarismos.</string>
+    <string name="desc2">Conheça expressões populares do cotidiano de falantes de inglês.</string>
+    <string name="desc3">Consulte uma lista de comidas para atender às suas necessidades.</string>
+    <string name="desc4">Veja como é formada a árvore genealógica das famílias.</string>
+    <string name="food1">"PÃO "</string>
+    <string name="food2">QUEIJO</string>
+    <string name="food3">LEITE</string>
+    <string name="food4">SANDUÍCHE</string>
+    <string name="food5">CAFÉ</string>
+    <string name="food6">TORTA</string>
+    <string name="food7">MILHO</string>
+    <string name="food8">BRÓCOLIS</string>
+    <string name="food9">SOPA</string>
+    <string name="food10">CHÁ</string>
+    <string name="food11" translatable="false">Bread</string>
+    <string name="food22" translatable="false">Cheese</string>
+    <string name="food33" translatable="false">Milk</string>
+    <string name="food44" translatable="false">Sandwich</string>
+    <string name="food55" translatable="false">Coffee</string>
+    <string name="food66" translatable="false">Pie</string>
+    <string name="food77" translatable="false">Corn</string>
+    <string name="food88" translatable="false">Broccoli</string>
+    <string name="food99" translatable="false">Soup</string>
+    <string name="food101" translatable="false">Tea</string>
+    <string name="nb1">1 - UM / PRIMEIRO</string>
+    <string name="nb2">2 - DOIS / SEGUNDO</string>
+    <string name="nb3">3 - TRÊS / TERCEIRO</string>
+    <string name="nb4">4 - QUATRO / QUARTO</string>
+    <string name="nb5">5 - CINCO / QUINTO</string>
+    <string name="nb6">6 - SEIS / SEXTO</string>
+    <string name="nb7">7 - SETE / SÉTIMO</string>
+    <string name="nb8">8 - OITO / OITAVO</string>
+    <string name="nb10">10 - DEZ / DÉCIMO</string>
+    <string name="nb11" translatable="false">One / First (1st)</string>
+    <string name="nb22" translatable="false">Two / Second (2nd)</string>
+    <string name="nb33" translatable="false">Three / Third (3rd)</string>
+    <string name="nb44" translatable="false">Four / Fourth (4th)</string>
+    <string name="nb55" translatable="false">Five / Fifth (5th)</string>
+    <string name="nb66" translatable="false">Six / Sixth (6th)</string>
+    <string name="nb77" translatable="false">Seven / Seventh (7th)</string>
+    <string name="nb88" translatable="false">Eight / Eighth (8th)</string>
+    <string name="nb99" translatable="false">Nine / Ninth (9th)</string>
+    <string name="nb101" translatable="false">Ten / Tenth (10th)</string>
+    <string name="nb9">9 - NOVE / NONO</string>
+    <string name="fam1">PAI</string>
+    <string name="fam2">MÃE</string>
+    <string name="fam3">FILHO</string>
+    <string name="fam4">FILHA</string>
+    <string name="fam5">AVÓS</string>
+    <string name="fam6">TIOS</string>
+    <string name="fam7">PRIMOS</string>
+    <string name="fam8">IRMÃO</string>
+    <string name="fam9">IRMÃ</string>
+    <string name="fam10">NETO</string>
+    <string name="fam11" translatable="false">Father / Dad / Daddy</string>
+    <string name="fam22" translatable="false">Mother / Mom / Mommy</string>
+    <string name="fam33" translatable="false">Son</string>
+    <string name="fam44" translatable="false">Daughter</string>
+    <string name="fam55" translatable="false">Grandparents</string>
+    <string name="fam66" translatable="false">Uncles</string>
+    <string name="fam77" translatable="false">Cousins</string>
+    <string name="fam88" translatable="false">Brother</string>
+    <string name="fam99" translatable="false">Sister</string>
+    <string name="fam101" translatable="false">Grandson</string>
+    <string name="exp1">- Aqui tá tudo bem !</string>
+    <string name="exp2">- Parece bom!</string>
+    <string name="exp3">- Como assim?</string>
+    <string name="exp4">- Ja tava na hora !</string>
+    <string name="exp5">- O que vamos comer hoje?</string>
+    <string name="exp6">- Não tenho ideia...</string>
+    <string name="exp7">- Deixa pra lá!</string>
+    <string name="exp8">- No seu tempo...</string>
+    <string name="exp9">- Até onde eu sei...</string>
+    <string name="exp10">- Só que nunca !</string>
+    <string name="exp11">- Boa sorte cara!</string>
+    <string name="exp12">- Foi muito fácil!</string>
+    <string name="exp13">- Claro, porque não!?</string>
+    <string name="exp14">- Oi, tudo bem?</string>
+    <string name="exp15">- Concordo com você.</string>
+    <string name="exp16">- Tanto faz... / - Que seja...</string>
+    <string name="exp17">- Entendido!</string>
+    <string name="exp18">- Até mais!</string>
+    <string name="exp19">- É  sério isso?</string>
+    <string name="exp20">- Deixa que eu pago!</string>
+    <string name="exp111" translatable="false">- Its\'s okay here!</string>
+    <string name="exp22" translatable="false">- Sounds good!</string>
+    <string name="exp33" translatable="false">- As well?</string>
+    <string name="exp44" translatable="false">- In high time!</string>
+    <string name="exp55" translatable="false">- What we\'ll eat today?</string>
+    <string name="exp66" translatable="false">- I have no ideia...</string>
+    <string name="exp77" translatable="false">- Nervermind!</string>
+    <string name="exp88" translatable="false">- Take your time...</string>
+    <string name="exp99" translatable="false">- As far as I know...</string>
+    <string name="exp101" translatable="false">- When pigs fly !</string>
+    <string name="exp1111" translatable="false">- Break a leg, dude!</string>
+    <string name="exp121" translatable="false">- It\'s a piece of cake!</string>
+    <string name="exp131" translatable="false">- Sure, why not!?</string>
+    <string name="exp141" translatable="false">- Hey, wassup?</string>
+    <string name="exp151" translatable="false">- Concordo com você.</string>
+    <string name="exp161" translatable="false">- Whatever...</string>
+    <string name="exp171" translatable="false">- I get it!</string>
+    <string name="exp181" translatable="false">- See you later!</string>
+    <string name="exp191" translatable="false">- Seriuosly?</string>
+    <string name="exp201" translatable="false">- Let me pay!</string>
+</resources>
